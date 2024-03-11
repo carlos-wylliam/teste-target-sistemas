@@ -1,10 +1,10 @@
 # Desafio Target Sistemas
 
-1. (QUESTÃO)  [Resposta da primeira questão]() = 91
+1. (QUESTÃO)  [Resposta da primeira questão](https://github.com/carlos-wylliam/teste-target-sistemas/blob/main/pergunta-1.js) = 91
 
 ---
 
-2. (QUESTÃO)  [Resposta da segunda questão]()
+2. (QUESTÃO)  [Resposta da segunda questão](https://github.com/carlos-wylliam/teste-target-sistemas/blob/main/pergunta-2.js)
 
 ---
 
@@ -44,4 +44,4 @@ Então eu tenho três alternativas, a lâmpada pode estar acesa, a lampada pode 
 - Caso a lâmpada esteja apagada e fria, o interruptor correto é o 3, pois isso indica que ela não foi ligada por um bom tempo.
 ```
 
-5. (QUESTÃO) [Resposta da quinta questão]()
+5. (QUESTÃO) [Resposta da quinta questão](https://github.com/carlos-wylliam/teste-target-sistemas/blob/main/pergunta-3.js)
